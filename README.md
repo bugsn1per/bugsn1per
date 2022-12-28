@@ -6,5 +6,5 @@
 ![](https://img.shields.io/badge/Hack.thePlanet-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ```
-![Visitor Count](https://profile-counter.glitch.me/bugsn1per/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{bugsn1per}/count.svg)
 ```

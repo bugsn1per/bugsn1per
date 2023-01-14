@@ -16,3 +16,4 @@
 
 
 
+![](https://komarev.com/ghpvc/?username=bugsn1per&label=Profile+views+since+14.01.2023)

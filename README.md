@@ -4,7 +4,7 @@
 
 
 
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugsn1per) -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugsn1per)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugsn1per&show_icons=true&theme=radical)

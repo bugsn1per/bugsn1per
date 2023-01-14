@@ -1,6 +1,6 @@
 
 
-
+-- :mega: Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3000+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/w4rg4m35)
 
 
